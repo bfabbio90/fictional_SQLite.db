@@ -1,2 +1,2 @@
 # fictional_SQLite.db
-This is a test made with Python and SQLite on VS Code
+This is a fictional date-test on VS Code using Python and SQLite3
